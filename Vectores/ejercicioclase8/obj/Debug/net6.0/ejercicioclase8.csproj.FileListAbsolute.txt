@@ -1,0 +1,15 @@
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\bin\Debug\net6.0\ejercicioclase8.exe
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\bin\Debug\net6.0\ejercicioclase8.deps.json
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\bin\Debug\net6.0\ejercicioclase8.runtimeconfig.json
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\bin\Debug\net6.0\ejercicioclase8.dll
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\bin\Debug\net6.0\ejercicioclase8.pdb
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ejercicioclase8.csproj.AssemblyReference.cache
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ejercicioclase8.GeneratedMSBuildEditorConfig.editorconfig
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ejercicioclase8.AssemblyInfoInputs.cache
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ejercicioclase8.AssemblyInfo.cs
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ejercicioclase8.csproj.CoreCompileInputs.cache
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ejercicioclase8.dll
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\refint\ejercicioclase8.dll
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ejercicioclase8.pdb
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ejercicioclase8.genruntimeconfig.cache
+D:\rolling\csharp\ejercicioclase8\ejercicioclase8\obj\Debug\net6.0\ref\ejercicioclase8.dll

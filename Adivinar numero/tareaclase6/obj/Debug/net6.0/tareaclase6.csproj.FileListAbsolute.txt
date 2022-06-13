@@ -1,0 +1,15 @@
+D:\rolling\csharp\tareaclase6\tareaclase6\bin\Debug\net6.0\tareaclase6.exe
+D:\rolling\csharp\tareaclase6\tareaclase6\bin\Debug\net6.0\tareaclase6.deps.json
+D:\rolling\csharp\tareaclase6\tareaclase6\bin\Debug\net6.0\tareaclase6.runtimeconfig.json
+D:\rolling\csharp\tareaclase6\tareaclase6\bin\Debug\net6.0\tareaclase6.dll
+D:\rolling\csharp\tareaclase6\tareaclase6\bin\Debug\net6.0\tareaclase6.pdb
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\tareaclase6.csproj.AssemblyReference.cache
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\tareaclase6.GeneratedMSBuildEditorConfig.editorconfig
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\tareaclase6.AssemblyInfoInputs.cache
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\tareaclase6.AssemblyInfo.cs
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\tareaclase6.csproj.CoreCompileInputs.cache
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\tareaclase6.dll
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\refint\tareaclase6.dll
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\tareaclase6.pdb
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\tareaclase6.genruntimeconfig.cache
+D:\rolling\csharp\tareaclase6\tareaclase6\obj\Debug\net6.0\ref\tareaclase6.dll

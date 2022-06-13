@@ -1,0 +1,15 @@
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ejercicio7.csproj.AssemblyReference.cache
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ejercicio7.AssemblyInfoInputs.cache
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ejercicio7.AssemblyInfo.cs
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ejercicio7.csproj.CoreCompileInputs.cache
+D:\rolling\csharp\ejercicio7\ejercicio7\bin\Debug\net6.0\ejercicio7.exe
+D:\rolling\csharp\ejercicio7\ejercicio7\bin\Debug\net6.0\ejercicio7.deps.json
+D:\rolling\csharp\ejercicio7\ejercicio7\bin\Debug\net6.0\ejercicio7.runtimeconfig.json
+D:\rolling\csharp\ejercicio7\ejercicio7\bin\Debug\net6.0\ejercicio7.dll
+D:\rolling\csharp\ejercicio7\ejercicio7\bin\Debug\net6.0\ejercicio7.pdb
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ejercicio7.dll
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\refint\ejercicio7.dll
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ejercicio7.pdb
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ejercicio7.genruntimeconfig.cache
+D:\rolling\csharp\ejercicio7\ejercicio7\obj\Debug\net6.0\ref\ejercicio7.dll

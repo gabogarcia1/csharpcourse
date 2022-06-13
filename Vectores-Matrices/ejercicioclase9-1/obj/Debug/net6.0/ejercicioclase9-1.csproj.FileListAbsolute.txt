@@ -1,0 +1,15 @@
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ejercicioclase9-1.csproj.AssemblyReference.cache
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ejercicioclase9-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ejercicioclase9-1.AssemblyInfoInputs.cache
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ejercicioclase9-1.AssemblyInfo.cs
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ejercicioclase9-1.csproj.CoreCompileInputs.cache
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\bin\Debug\net6.0\ejercicioclase9-1.exe
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\bin\Debug\net6.0\ejercicioclase9-1.deps.json
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\bin\Debug\net6.0\ejercicioclase9-1.runtimeconfig.json
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\bin\Debug\net6.0\ejercicioclase9-1.dll
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\bin\Debug\net6.0\ejercicioclase9-1.pdb
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ejercicioclase9-1.dll
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\refint\ejercicioclase9-1.dll
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ejercicioclase9-1.pdb
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ejercicioclase9-1.genruntimeconfig.cache
+D:\rolling\csharp\ejercicioclase9-1\ejercicioclase9-1\obj\Debug\net6.0\ref\ejercicioclase9-1.dll
