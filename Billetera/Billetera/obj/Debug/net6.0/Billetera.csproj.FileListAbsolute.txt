@@ -1,0 +1,15 @@
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\bin\Debug\net6.0\Billetera.exe
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\bin\Debug\net6.0\Billetera.deps.json
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\bin\Debug\net6.0\Billetera.runtimeconfig.json
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\bin\Debug\net6.0\Billetera.dll
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\bin\Debug\net6.0\Billetera.pdb
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\Billetera.csproj.AssemblyReference.cache
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\Billetera.GeneratedMSBuildEditorConfig.editorconfig
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\Billetera.AssemblyInfoInputs.cache
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\Billetera.AssemblyInfo.cs
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\Billetera.csproj.CoreCompileInputs.cache
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\Billetera.dll
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\refint\Billetera.dll
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\Billetera.pdb
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\Billetera.genruntimeconfig.cache
+D:\rolling\csharp\csharpcourse\Billetera\Billetera\obj\Debug\net6.0\ref\Billetera.dll
