@@ -33,3 +33,18 @@ Escribir un programa que dentro de un bucle vaya mostrando las opciones que quer
 5 - Mostrar cartas del monton
 6 - Mostrar baraja
 7 - Salir*/
+
+using CartasEspaniolas;
+
+Baraja b1 = new Baraja();
+
+Console.WriteLine("Se creo la baraja 1 y su longitud es:" + b1.Cartas.Count);
+
+b1.Barajar(b1.Cartas);
+b1.MostrarBaraja(b1);
+
+
+
+
+
+

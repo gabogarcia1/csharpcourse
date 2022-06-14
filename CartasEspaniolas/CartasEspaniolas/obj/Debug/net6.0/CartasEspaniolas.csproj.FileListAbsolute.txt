@@ -1,0 +1,15 @@
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\bin\Debug\net6.0\CartasEspaniolas.exe
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\bin\Debug\net6.0\CartasEspaniolas.deps.json
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\bin\Debug\net6.0\CartasEspaniolas.runtimeconfig.json
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\bin\Debug\net6.0\CartasEspaniolas.dll
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\bin\Debug\net6.0\CartasEspaniolas.pdb
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\CartasEspaniolas.csproj.AssemblyReference.cache
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\CartasEspaniolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\CartasEspaniolas.AssemblyInfoInputs.cache
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\CartasEspaniolas.AssemblyInfo.cs
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\CartasEspaniolas.csproj.CoreCompileInputs.cache
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\CartasEspaniolas.dll
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\refint\CartasEspaniolas.dll
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\CartasEspaniolas.pdb
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\CartasEspaniolas.genruntimeconfig.cache
+D:\rolling\csharp\csharpcourse\CartasEspaniolas\CartasEspaniolas\obj\Debug\net6.0\ref\CartasEspaniolas.dll
