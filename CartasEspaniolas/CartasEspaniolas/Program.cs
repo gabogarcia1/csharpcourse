@@ -83,7 +83,6 @@ while (jugando)
             Console.WriteLine("Indique cuantas cartas desea sacar");
             int numero = int.Parse(Console.ReadLine());
             b1.SacarCarta(numero);
-            Console.WriteLine($"Usted Saco {numero} cartas");
             Console.WriteLine("Presione cualquier tecla para continuar");
             Console.ReadKey();
             break;
@@ -99,6 +98,8 @@ while (jugando)
         break;
         default:
             Console.WriteLine("Elija un numero dentro del menu");
+            Console.WriteLine("Presione cualquier tecla para continuar");
+            Console.ReadKey();
             break;
     }
 

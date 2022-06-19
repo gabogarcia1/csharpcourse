@@ -106,9 +106,10 @@ namespace CartasEspaniolas
             {
                 for (int i = 0; i < numero; i++)
                 {
-                    Monton.Push(Cartas[i]);
-                    Cartas.Remove(Cartas[i]);
+                    Monton.Push(Cartas[0]);
+                    Cartas.Remove(Cartas[0]);
                 }
+                Console.WriteLine($"Usted Saco {numero} cartas");
             }
 
         }
