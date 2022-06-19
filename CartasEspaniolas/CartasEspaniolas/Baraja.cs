@@ -84,12 +84,32 @@ namespace CartasEspaniolas
 
         public void SacarCarta()
         {
-            Monton.Push(Cartas[0]);
-            Cartas.Remove(Cartas[0]);
+            if (Cartas.Count<=1)
+            {
+                Console.WriteLine("Esta superando el limite de cartas que quedan en el naipe");
+            }
+            else
+            {
+                Monton.Push(Cartas[0]);
+                Cartas.Remove(Cartas[0]);
+            }
+            
         }
 
         public void SacarCarta(int numero)
         {
+            if (numero >= Cartas.Count)
+            {
+                Console.WriteLine("Esta superando el limite de cartas que quedan en el naipe");
+            }
+            else
+            {
+                for (int i = 0; i < numero; i++)
+                {
+                    Monton.Push(Cartas[i]);
+                    Cartas.Remove(Cartas[i]);
+                }
+            }
 
         }
         public void MostrarMonton()
@@ -100,5 +120,6 @@ namespace CartasEspaniolas
             { Console.WriteLine(cart); }
             Console.WriteLine("============================================");
         }
+        
     }
 }

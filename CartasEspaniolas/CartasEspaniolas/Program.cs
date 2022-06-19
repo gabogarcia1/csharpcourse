@@ -76,13 +76,20 @@ while (jugando)
 
             break;
         case 3:
-            b1.Barajar(b1.Cartas);
+            Console.WriteLine($"Quedan {b1.Cartas.Count} cartas disponibles");
             break;
         case 4:
-            b1.Barajar(b1.Cartas);
+            Console.Clear();
+            Console.WriteLine("Indique cuantas cartas desea sacar");
+            int numero = int.Parse(Console.ReadLine());
+            b1.SacarCarta(numero);
+            Console.WriteLine($"Usted Saco {numero} cartas");
+            Console.WriteLine("Presione cualquier tecla para continuar");
+            Console.ReadKey();
             break;
         case 5:
             Console.Clear();
+            Console.WriteLine("Las cartas que estan en el monton son");
             b1.MostrarMonton();
             Console.WriteLine("Presione cualquier tecla para continuar");
             Console.ReadKey();
@@ -91,7 +98,7 @@ while (jugando)
             jugando = false;
         break;
         default:
-            Console.WriteLine("Eligio cualquier cosa");
+            Console.WriteLine("Elija un numero dentro del menu");
             break;
     }
 
