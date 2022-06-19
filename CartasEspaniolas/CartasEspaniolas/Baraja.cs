@@ -10,6 +10,7 @@ namespace CartasEspaniolas
     {
         //propiedad para generar la lista de cartas
         public List<string> Cartas { get; set; }
+        public Stack<string> Monton { get; set; }
 
         //Connstructor que me genera la baraja entera
         public Baraja()
@@ -26,6 +27,8 @@ namespace CartasEspaniolas
             "11 de Copa","11 de oro","11 de Espada","11 de Basto",
             "12 de Copa","12 de oro","12 de Espada","12 de Basto",
             };
+            Monton = new Stack<string>()
+            { };
         }
 
         //Metodos
@@ -36,7 +39,6 @@ namespace CartasEspaniolas
             Random rand = new Random();
             int aux=0;
             bool flag=true;
-            bool flag2 = true;
             List<int> auxList = new List<int>();
             for (int i = 0; i < cartas.Count; i++)
             {
@@ -78,6 +80,25 @@ namespace CartasEspaniolas
             { Console.WriteLine(cart); }
             Console.WriteLine("============================================");
 
+        }
+
+        public void SacarCarta()
+        {
+            Monton.Push(Cartas[0]);
+            Cartas.Remove(Cartas[0]);
+        }
+
+        public void SacarCarta(int numero)
+        {
+
+        }
+        public void MostrarMonton()
+        {
+            Console.WriteLine("============================================");
+            Console.WriteLine("Se muestra Monton");
+            foreach (var cart in Monton)
+            { Console.WriteLine(cart); }
+            Console.WriteLine("============================================");
         }
     }
 }

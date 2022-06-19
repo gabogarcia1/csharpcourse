@@ -47,7 +47,7 @@ while (jugando)
     Console.WriteLine("2 - Sacar la primera carta y acumularla en el monton");
     Console.WriteLine("3 - Contar cartas disponibles");
     Console.WriteLine("4 - Sacar mas de una carta y acumular en el monton. Indicando la cantidad de cartas");
-    Console.WriteLine("5 - Mostrar las cartas que ya se hayan sacado");
+    Console.WriteLine("5 - Mostrar el monton (las cartas que ya se sacaron)");
     Console.WriteLine("6 - Dejar de jugar");
     int opcion = int.Parse(Console.ReadLine());
     
@@ -68,7 +68,12 @@ while (jugando)
             Console.ReadKey();
             break;
         case 2:
-            b1.Barajar(b1.Cartas);
+            Console.Clear();
+            b1.SacarCarta();
+            Console.WriteLine("Usted Saco una carta");
+            Console.WriteLine("Presione cualquier tecla para continuar");
+            Console.ReadKey();
+
             break;
         case 3:
             b1.Barajar(b1.Cartas);
@@ -77,7 +82,10 @@ while (jugando)
             b1.Barajar(b1.Cartas);
             break;
         case 5:
-            b1.Barajar(b1.Cartas);
+            Console.Clear();
+            b1.MostrarMonton();
+            Console.WriteLine("Presione cualquier tecla para continuar");
+            Console.ReadKey();
             break;
         case 6:
             jugando = false;
@@ -86,7 +94,7 @@ while (jugando)
             Console.WriteLine("Eligio cualquier cosa");
             break;
     }
-    Console.WriteLine("Se creo la baraja 1 y su longitud es:" + b1.Cartas.Count);
+
 }
 
 
