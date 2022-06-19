@@ -33,16 +33,61 @@ Escribir un programa que dentro de un bucle vaya mostrando las opciones que quer
 5 - Mostrar cartas del monton
 6 - Mostrar baraja
 7 - Salir*/
-
 using CartasEspaniolas;
 
+bool jugando = true;
 Baraja b1 = new Baraja();
+while (jugando)
+{
+    Console.Clear();
+    Console.WriteLine("Usted tiene un Naipe de cartas espaniolas");
+    Console.WriteLine("Seleccione que desea hacer con el naipe");
+    Console.WriteLine("0 - Mostrar Baraja");
+    Console.WriteLine("1 - barajar");
+    Console.WriteLine("2 - Sacar la primera carta y acumularla en el monton");
+    Console.WriteLine("3 - Contar cartas disponibles");
+    Console.WriteLine("4 - Sacar mas de una carta y acumular en el monton. Indicando la cantidad de cartas");
+    Console.WriteLine("5 - Mostrar las cartas que ya se hayan sacado");
+    Console.WriteLine("6 - Dejar de jugar");
+    int opcion = int.Parse(Console.ReadLine());
+    
 
-Console.WriteLine("Se creo la baraja 1 y su longitud es:" + b1.Cartas.Count);
-
-b1.Barajar(b1.Cartas);
-b1.MostrarBaraja(b1);
-
+    switch (opcion)
+    {
+        case 0:
+            Console.Clear();
+            b1.MostrarBaraja();
+            Console.WriteLine("Presione cualquier tecla para continuar");
+            Console.ReadKey();
+            break;
+        case 1:
+            Console.Clear();
+            b1.Barajar(b1.Cartas);
+            Console.WriteLine("Las cartas se encuentran mezcladas");
+            Console.WriteLine("Presione cualquier tecla para continuar");
+            Console.ReadKey();
+            break;
+        case 2:
+            b1.Barajar(b1.Cartas);
+            break;
+        case 3:
+            b1.Barajar(b1.Cartas);
+            break;
+        case 4:
+            b1.Barajar(b1.Cartas);
+            break;
+        case 5:
+            b1.Barajar(b1.Cartas);
+            break;
+        case 6:
+            jugando = false;
+        break;
+        default:
+            Console.WriteLine("Eligio cualquier cosa");
+            break;
+    }
+    Console.WriteLine("Se creo la baraja 1 y su longitud es:" + b1.Cartas.Count);
+}
 
 
 

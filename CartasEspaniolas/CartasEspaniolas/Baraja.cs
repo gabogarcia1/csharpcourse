@@ -57,7 +57,6 @@ namespace CartasEspaniolas
                         aux = rand.Next(0, 40);
                        
                     }
-                
 
                 } while (flag);
                 auxList.Add(aux);
@@ -71,11 +70,11 @@ namespace CartasEspaniolas
 
         }
 
-        public void MostrarBaraja(Baraja cartas)
+        public void MostrarBaraja()
         {
             Console.WriteLine("============================================");
             Console.WriteLine("Se muestra Baraja");
-            foreach (var cart in cartas.Cartas)
+            foreach (var cart in Cartas)
             { Console.WriteLine(cart); }
             Console.WriteLine("============================================");
 
