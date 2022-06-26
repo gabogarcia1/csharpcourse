@@ -1,0 +1,15 @@
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.exe
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.deps.json
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.runtimeconfig.json
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.dll
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.pdb
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.csproj.AssemblyReference.cache
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.GeneratedMSBuildEditorConfig.editorconfig
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.AssemblyInfoInputs.cache
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.AssemblyInfo.cs
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.csproj.CoreCompileInputs.cache
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.dll
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\refint\Cuadrilateros.dll
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.pdb
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.genruntimeconfig.cache
+D:\rolling\csharp\csharpcourse\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\ref\Cuadrilateros.dll
